@@ -39,7 +39,7 @@ class TextAnalyzer
     end
 
     biggest
-  end  
+  end
 end
 
 my_text = TextAnalyzer.new("The rain in Spain stays mainly on the plain.")
